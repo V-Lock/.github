@@ -19,6 +19,47 @@ Notre solution allie sécurité, simplicité et rapidité d'utilisation. Actuell
 
 Nous bénéficions du soutien de la région Grand Est et sommes accompagnés par des fournisseurs engagés dans notre développement.
 
+## Découvrez V-Lock en images :
+
+Veuillez trouver ci-dessous un aperçu visuel de notre application V-Lock, illustrant ses fonctionnalités et son interface utilisateur :
+
+<div id="carouselExampleIndicators" class="carousel slide" data-bs-ride="carousel">
+  <div class="carousel-indicators">
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="1" aria-label="Slide 2"></button>
+    <button type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide-to="2" aria-label="Slide 3"></button>
+  </div>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img src="profile/1.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="profile/2.png" class="d-block w-100" alt="...">
+    </div>
+    <div class="carousel-item">
+      <img src="profile/3.png" class="d-block w-100" alt="...">
+    </div>
+      <div class="carousel-item">
+      <img src="profile/4.png" class="d-block w-100" alt="...">
+    </div>
+      <div class="carousel-item">
+      <img src="profile/5.png" class="d-block w-100" alt="...">
+    </div>
+  </div>
+  <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="prev">
+    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Previous</span>
+  </button>
+  <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleIndicators" data-bs-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="visually-hidden">Next</span>
+  </button>
+</div>
+
+## Pour en savoir plus :
+
+Visitez notre site Web [V-Lock](http://www.v-lock.fr) pour découvrir davantage sur notre solution de sécurisation des vélos.
+
 <!--
 
 **Here are some ideas to get you started:**
