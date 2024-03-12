@@ -22,17 +22,7 @@ Nous bénéficions du soutien de la région Grand Est et sommes accompagnés par
 ## Découvrez V-Lock en images :
 
 Veuillez trouver ci-dessous un aperçu visuel de notre application V-Lock, illustrant ses fonctionnalités et son interface utilisateur :
-
-<p>
     <img src="profile/1.png" hspace="30" >
-    <img src="profile/2-2.png" hspace="30" >
-</p>
-<p>
-    <img src="profile/3-2.png" hspace="30" >
-    <img src="profile/4.png" hspace="30" >
-    <img src="profile/5.png" hspace="30" >
-</p>
-
 ## Pour en savoir plus :
 
 Visitez notre site Web [V-Lock](http://www.v-lock.fr) pour découvrir davantage sur notre solution de sécurisation des vélos.
