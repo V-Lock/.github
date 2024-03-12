@@ -23,17 +23,10 @@ Nous bénéficions du soutien de la région Grand Est et sommes accompagnés par
 
 Veuillez trouver ci-dessous un aperçu visuel de notre application V-Lock, illustrant ses fonctionnalités et son interface utilisateur :
 
-<div class="row">
-  <div class="col">
-    <img src="profile/1.png" class="d-block w-100" alt="...">
-  </div>
-  <div class="col">
-    <img src="cprofile/2.png" class="d-block w-100" alt="...">
-  </div>
-  <div class="col">
-    <img src="profile/3.png" class="d-block w-100" alt="...">
-  </div>
-</div>
+<p>
+    <img src="https://picsum.photos/300/300" hspace="30" >
+    <img src="https://picsum.photos/300/300" hspace="30" >
+</p>
 
 ## Pour en savoir plus :
 
