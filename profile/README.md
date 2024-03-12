@@ -21,7 +21,7 @@ Nous bénéficions du soutien de la région Grand Est et sommes accompagnés par
 
 ## Découvrez V-Lock en images :
 
-Veuillez trouver ci-dessous un aperçu visuel de notre application V-Lock, illustrant ses fonctionnalités et son interface utilisateur :
+Veuillez trouver ci-dessous un aperçu visuel de notre application V-Lock, illustrant son interface utilisateur :
     <img src="profile/1.png" hspace="30" >
 ## Pour en savoir plus :
 
