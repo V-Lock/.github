@@ -2,7 +2,7 @@
 
 Bienvenue sur le GitHub du projet V-Lock, une solution innovante pour sécuriser votre vélo.
 
-![V-Lock](profile/v-lock.png)
+![V-Lock](./v-lock.png)
 
 ## Présentation :
 V-Lock est une borne connectée offrant un emplacement sécurisé pour votre vélo. Son fonctionnement est simple et sûr : vous attachez la chaîne autour du cadre et de la roue avant, et votre téléphone devient la clé du système.
@@ -22,7 +22,7 @@ Nous bénéficions du soutien de la région Grand Est et sommes accompagnés par
 ## Découvrez V-Lock en images :
 
 Veuillez trouver ci-dessous un aperçu visuel de notre application V-Lock, illustrant son interface utilisateur :
-    ![V-Lock_app](profile/2.png)
+    ![V-Lock_app](./2.png)
 ## Pour en savoir plus :
 
 Visitez notre site Web [V-Lock](http://www.v-lock.fr) pour découvrir davantage sur notre solution de sécurisation des vélos.
